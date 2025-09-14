@@ -2,7 +2,7 @@
 Showcase of my projects in web development, data, and design
 
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Anisa 👋
 
 🎓 BTEC Computing (DDM)  
 💻 Aspiring Software Engineer | Data & AI Enthusiast  
